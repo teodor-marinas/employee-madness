@@ -1,4 +1,6 @@
-# Employee Data
+# Employee Madness App
+
+Welcome to the Employee Madness App! This is an an advanced MERN stack application for employee management with features like filtering and arranging employees by various criteria. The site was developed as a solo study project at Codecool. 
 
 ## Server side
 
